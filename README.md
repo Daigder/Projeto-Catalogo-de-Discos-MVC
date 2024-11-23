@@ -4,7 +4,7 @@ Este projeto é uma aplicação desenvolvida utilizando o padrão **MVC (Model-V
 
 ---
 ## Imagem da Pagina Inicial do Projeto
-![image](https://github.com/user-attachments/assets/da67d136-e54a-4940-8b78-952fc4bb9fa3)
+![image](https://github.com/user-attachments/assets/d33dc5c4-4412-48c2-af18-61b8244b071b)
 ## 🛠️ Funcionalidades
 
 1. **Gerenciamento de Discos**
@@ -69,7 +69,7 @@ Este projeto é uma aplicação desenvolvida utilizando o padrão **MVC (Model-V
 ---
 Clone o repositório:
 ``` bash
-git clone https://github.com/Daigder/Projeto-Catalogo-musical-MVC.git
+git clone https://github.com/Daigder/Projeto-Catalogo-de-Discos-MVC.git
 ```
 Instale as dependências:
 ``` bash
